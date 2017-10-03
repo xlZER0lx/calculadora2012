@@ -10,5 +10,4 @@ python:
 script: 
   - "python testCalculadora.py"
   - "coverage run --branch testCalculadora.py"
-  - "cd tests"
-  - "lettuce"
+  - "lettuce tests"
