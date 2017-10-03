@@ -7,4 +7,4 @@ language: python
 python: 
   - "2.7"
 script: 
-  - "python TestCalculadora.py"
+  - "python testCalculadora.py"
